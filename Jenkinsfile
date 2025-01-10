@@ -26,7 +26,7 @@ pipeline {
         }
         stage('git checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/YugeshKumar01/kafka-infra.git'
+                git branch: 'main', url: 'https://github.com/ritikgithub3105/kafka_infrastructure.git'
             }
         }
         
