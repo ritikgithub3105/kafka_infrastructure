@@ -1,2 +1,1 @@
-# kafka_infrastructure
-infra
+# kafka-infra
